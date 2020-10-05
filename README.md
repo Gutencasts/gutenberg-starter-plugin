@@ -53,4 +53,5 @@ Consult the [WordPress Block Editor Handbook](https://developer.wordpress.org/bl
 
 ## Credits
   * Inspired from (modern-wp-plugin)[https://github.com/kadamwhite/modern-wp-plugin] by (K Adam White)[https://github.com/kadamwhite]
+  * Credits to (Mike Selander)[https://github.com/mikeselander] for his foundational knowledge
   * More to come!

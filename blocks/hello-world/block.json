@@ -1,0 +1,18 @@
+{
+	"name": "gutenberg-starter-plugin/hello-world",
+	"title": "Example hello world block",
+	"category": "text",
+	"icon": "format-video",
+	"description": "Lorem ipsum",
+	"attributes": {
+		"title": {
+            "type": "string",
+            "default": "Gutenberg Starter Plugin"
+        }
+	},
+	"example": {
+		"attributes": {
+			"title": "Gutenberg Starter Plugin"
+		}
+	}
+}

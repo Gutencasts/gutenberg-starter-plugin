@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true,
+      "esModuleInterop": true,
+      "jsx": "react",
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "es2018"
+      ],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "resolveJsonModule": true,
+      "noImplicitAny": false,
+      "sourceMap": true,
+      "strict": true,
+      "target": "es2018",
+      "rootDir": ".",
+      "baseUrl": ".",
+      "typeRoots": [
+        "node",
+        "node_modules/@types",
+        "@types"
+      ]
+    },
+    "compileOnSave": true,
+    "exclude": ["vendor", "node_modules"]
+}

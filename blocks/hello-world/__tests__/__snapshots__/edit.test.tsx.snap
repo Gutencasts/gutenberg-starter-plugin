@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello world block should update the title attribute 1`] = `
+<div>
+  <div
+    class="hello-world-block"
+  >
+    <h3
+      class="hello-world__title"
+    >
+      Hello World from: My title
+    </h3>
+    <button
+      class="btn btn-primary hello-world__ctx"
+    >
+      Click
+    </button>
+  </div>
+  <div>
+    <div
+      class="components-panel__body is-opened"
+    >
+      <h2
+        class="components-panel__body-title"
+      >
+        <button
+          aria-expanded="true"
+          class="components-button components-panel__body-toggle"
+          type="button"
+        >
+          <span
+            aria-hidden="true"
+          >
+            <svg
+              aria-hidden="true"
+              class="components-panel__arrow"
+              focusable="false"
+              height="24"
+              role="img"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.5 12.4L12 8l5.5 4.4-.9 1.2L12 10l-4.5 3.6-1-1.2z"
+              />
+            </svg>
+          </span>
+          Required fields
+        </button>
+      </h2>
+      <div
+        class="components-panel__row"
+      >
+        <div
+          class="components-base-control"
+        >
+          <div
+            class="components-base-control__field"
+          >
+            <label
+              class="components-base-control__label"
+              for="inspector-text-control-0"
+            >
+              Title
+            </label>
+            <input
+              class="components-text-control__input"
+              id="inspector-text-control-0"
+              type="text"
+              value="My title"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
